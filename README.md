@@ -2,13 +2,15 @@
 
 ###### Alberto Ramos Sánchez
 
-<center><img src="spaceship.gif" width="800" height="470" alt="Sistema solar"/></center>
+<center><img src="spaceship.gif" width="1000" height="500" alt="Sistema solar"/></center>
 
 En esta práctica hemos realizado el diseño de un sistema de navegación de una nave espacial, que navega por el sistema solar de la práctica anterior.
 
 ### Controles
 
 <center><img src="./planetary_system/img/hud_img/manual.png" width="877" height="459" alt="manual"/></center>
+
+![Giros de una aeronave](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flight_dynamics_with_text_ortho.svg/330px-Flight_dynamics_with_text_ortho.svg.png)
 
 ### Vista en primera persona: navegación de la nave.
 
